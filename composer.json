@@ -1,0 +1,17 @@
+{
+    "name": "wilker-pc/sortear-alunos",
+    "autoload": {
+        "psr-4": {
+            "WilkerPc\\SortearAlunos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GuilhermeWilker",
+            "email": "wilkerguilherme0@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.2"
+    }
+}
